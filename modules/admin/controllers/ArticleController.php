@@ -97,7 +97,7 @@ class ArticleController extends Controller
 
         return $this->render('update', [
             'model' => $model,
-        ]);
+         ]);
     }
 
     /**
